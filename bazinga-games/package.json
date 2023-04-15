@@ -1,0 +1,32 @@
+{
+  "name": "bazinga-games",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start-dev": "NODE_ENV='development' PORT=3000 react-scripts start",
+    "start": "react-scripts start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "morgan": "^1.10.0",
+    "node": "^19.8.1",
+    "nodemon": "^2.0.22",
+    "react": "^18.2.0",
+    "react-router-dom": "^6.10.0",
+    "react-scripts": "^5.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
