@@ -259,63 +259,63 @@ const {
       {
         cartId: 1,
         productId: 1,
-        price: 11999,
+        price: 499,
         quantity: 1,
       },
       {
           cartId: 1,
           productId: 3,
-          price: 29999,
+          price: 249,
           quantity: 1,
         },
       {
         cartId: 1,
         productId: 2,
-        price: 39999,
+        price: 499,
         quantity: 1,
       },
       {
         cartId: 2,
         productId: 2,
-        price: 39999,
+        price: 499,
         quantity: 1,
       },
       {
         cartId: 3,
         productId: 3,
-        price: 29999,
+        price: 249,
         quantity: 1,
       },
       {
         cartId: 4,
         productId: 3,
-        price: 29999,
+        price: 249,
         quantity: 1,
       },
   
       {
         cartId: 5,
         productId: 3,
-        price: 29999,
+        price: 249,
         quantity: 1,
       },
       {
         cartId: 5,
         productId: 2,
-        price: 39999,
+        price: 499,
         quantity: 1,
       },
   
       {
         cartId: 6,
         productId: 3,
-        price: 29999,
+        price: 249,
         quantity: 1,
       },
       {
         cartId: 6,
         productId: 2,
-        price: 39999,
+        price: 499,
         quantity: 1,
       },
   
