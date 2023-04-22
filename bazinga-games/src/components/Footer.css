@@ -8,15 +8,15 @@
     flex-direction: row;
     background: linear-gradient(
       130deg,
-      rgb(234, 131, 172) 0%,
-      rgb(199, 168, 190) 50%,
-      rgb(162, 95, 176) 100%
+      rgb(247, 3, 3) 0%,
+      rgb(2, 6, 245) 50%,
+      rgb(81, 249, 2) 100%
     );
     position: fixed;
     bottom: 0;
     width: 100%;
     height: 50px;
-    border-top: 1px solid rgba(78, 14, 96, 0.622);
+    border-top: 1px solid rgba(14, 96, 22, 0.622);
     box-shadow: 2px 2px 2px 2px;
     justify-content: center;
     align-items: center;

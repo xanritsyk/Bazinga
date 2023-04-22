@@ -17,18 +17,18 @@
     height: 40px;
     border-bottom-right-radius: 20px;
     border-top-right-radius: 20px;
-    background: rgb(222, 135, 197);
-    border: 5px outset rgb(194, 173, 203);
+    background: rgb(5, 9, 250);
+    border: 5px outset rgb(7, 250, 56);
   }
   
   #leftButtonCart {
     height: 40px;
     border-bottom-left-radius: 20px;
     border-top-left-radius: 20px;
-    background: rgb(162, 200, 243);
+    background: rgb(246, 40, 4);
     width: 150px;
   
-    border: 5px outset rgb(194, 173, 203);
+    border: 5px outset rgb(60, 2, 249);
   }
   
   #selectedQuantity {
@@ -37,8 +37,8 @@
     height: 40px;
     border-bottom-left-radius: 0px;
     border-bottom-left-radius: 0px;
-    background: rgb(173, 234, 208);
-    border: 5px outset rgb(194, 173, 203);
+    background: rgb(3, 241, 31);
+    border: 5px outset rgb(248, 24, 4);
   }
   
   #rightButtonCart:hover,

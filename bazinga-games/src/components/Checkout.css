@@ -7,10 +7,10 @@
     -webkit-text-stroke: 0.5px black;
     font-size: 20px;
     color: white;
-    background-color: rgb(87, 47, 113);
+    background-color: rgb(250, 4, 4);
     padding: 10px;
     border-radius: 10px;
-    border: 3px outset rgb(208, 132, 238);
+    border: 3px outset rgb(4, 47, 240);
     margin-top: 10px;
     margin-left: 475px;
     margin-bottom: 10px;
@@ -26,10 +26,10 @@
       -webkit-text-stroke: 0.5px black;
   font-size: 20px;
   color: white;
-  background-color: rgb(87, 47, 113);
+  background-color: rgb;
   padding: 10px;
   border-radius: 10px;
-  border: 3px outset rgb(208, 132, 238);
+  border: 3px outset rgb(4, 47, 240);
   margin-top: 10px;
   
   margin-bottom: 10px;

@@ -4,7 +4,7 @@
   
   .productDescriptionH {
     font-style: italic;
-    color: rgb(60, 0, 128);
+    color: rgb(253, 3, 23);
     font-size: 30px;
   }
   
@@ -34,8 +34,8 @@
   }
   
   .buttons {
-    background-color: #f282f0; 
-    border: 5px outset rgb(208, 92, 232);
+    background-color: #3904fa; 
+    border: 5px outset rgb(249, 6, 6);
     color: black;
     padding: 10px 25px;
     height: 50px;
@@ -78,7 +78,7 @@
   
   .productNameH {
     font-weight: bold;
-    color: rgb(200, 112, 235);
+    color: rgb(247, 5, 5);
     font-size: 50px;
     -webkit-text-stroke: 1.5px black;
     margin-top: -15px;
@@ -130,8 +130,8 @@
     height: 50px;
     width: 120px;
     border-bottom-right-radius: 20px;
-    background: rgb(222, 135, 197);
-    border: 5px outset rgb(194, 173, 203);
+    background: rgb(59, 2, 247);
+    border: 5px outset rgb(252, 6, 6);
   }
   
   #buttonContainer {

@@ -5,14 +5,15 @@
   "main": "index.js",
   "scripts": {
     "start-dev": "NODE_ENV='development' PORT=3000 react-scripts start",
-    "start": "react-scripts start"
+    "start": "react-scripts start",
+    "seed:dev": "nodemon ./db/seed.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "morgan": "^1.10.0",
     "node": "^19.8.1",
-    "nodemon": "^2.0.22",
+    "pg": "^8.10.0",
     "react": "^18.2.0",
     "react-router-dom": "^6.10.0",
     "react-scripts": "^5.0.1",
@@ -31,5 +32,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
   }
 }

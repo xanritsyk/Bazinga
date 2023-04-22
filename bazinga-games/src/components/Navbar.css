@@ -62,13 +62,13 @@
     font-size: 18px;
     
     margin-right: 8px;
-    border: 2px solid rgb(87, 47, 113);
+    border: 2px solid rgb(252, 5, 5);
     border-radius: 5px;
     background-color: rgba(137, 223, 249, 0);
   
     -webkit-text-stroke: 0.2px white;
     font-family: "Zen Dots", cursive;
-    color: rgb(87, 47, 113);
+    color: rgb(6, 18, 249);
     text-decoration: none;
   }
   
@@ -90,12 +90,12 @@
   #logoutBtn {
     font-size: 18px;
     
-    border: 2px solid rgb(87, 47, 113);
+    border: 2px solid rgb(250, 5, 5);
     border-radius: 5px;
     background-color: rgba(137, 223, 249, 0);
     -webkit-text-stroke: 0.2px white;
     font-family: "Zen Dots", cursive;
-    color: rgb(87, 47, 113);
+    color: rgb(41, 5, 247);
     
   }
   
@@ -106,7 +106,7 @@
     font-size: 25px;
     
     text-decoration: none;
-    border: 2px solid rgb(87, 47, 113);
+    border: 2px solid rgb(240, 6, 6);
     border-radius: 5px;
     background-color: rgba(137, 223, 249, 0);
     

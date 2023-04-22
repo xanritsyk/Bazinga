@@ -6,7 +6,7 @@
     z-index: 9;
     position: absolute;
     border: 2px solid rgb(255, 255, 255);
-    background-color: rgb(87, 47, 113);
+    background-color: rgb(13, 5, 248);
   
     display: flex;
     padding-left: 10px;
@@ -80,15 +80,15 @@
     border-top-right-radius: 10px;
     letter-spacing: 0.5px;
     color: white;
-    background-color: rgb(87, 47, 113);
+    background-color: rgb(41, 4, 251);
     
   
     background: linear-gradient(
       132deg,
-      rgb(154, 112, 227) 100%,
+      rgb(251, 3, 3) 100%,
       132deg,
-      rgba(188, 185, 254, 1) 50%,
-      rgba(245, 109, 164, 1) 0%
+      rgb(14, 1, 246) 50%,
+      rgb(2, 248, 43) 0%
     );
   }
   

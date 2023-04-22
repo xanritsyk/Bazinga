@@ -14,7 +14,7 @@ const Navbar = (props) => {
     <div>
       <div id="navbar">
         <Link to="/" id="logo">
-          DimTECH
+          Bazinga Games
         </Link>
         <Link className="productsNav" to="/Products">
           Products

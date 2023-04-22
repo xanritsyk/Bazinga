@@ -40,15 +40,15 @@
     border-top-right-radius: 10px;
     color: white;
     letter-spacing: 0.5px;
-    background-color: rgb(87, 47, 113);
+    background-color: rgb(39, 7, 245);
   
   
     background: linear-gradient(
       132deg,
-      rgb(194, 173, 203) 100%,
+      rgb(249, 3, 3) 100%,
       132deg,
-      rgba(188, 185, 254, 1) 50%,
-      rgba(245, 109, 164, 1) 0%
+      rgb(14, 1, 245) 50%,
+      rgb(28, 250, 4) 0%
     );
   }
   
@@ -108,8 +108,8 @@
     width: 65px;
     margin-right: -5px;
     margin-left: -1px;
-    background-color: rgb(222, 135, 197);
-    border: 5px outset rgb(194, 173, 203);
+    background-color: rgb(15, 2, 250);
+    border: 5px outset rgb(254, 3, 3);
   }
   
   #bottomRowContainer {

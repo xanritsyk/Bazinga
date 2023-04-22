@@ -1,6 +1,6 @@
 #theForms {
     width: 350px;
-    border: 5px outset violet;
+    border: 5px outset rgb(248, 8, 8);
     display: flex;
     justify-content: center;
     align-items: center;
