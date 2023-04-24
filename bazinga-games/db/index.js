@@ -1,6 +1,6 @@
 module.exports = {
     ...require("./users"),
     ...require("./products"),
-    ...require("./cart"),
+    ...require("./carts"),
     ...require("./cart_items")
   };

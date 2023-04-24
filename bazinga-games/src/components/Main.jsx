@@ -51,6 +51,7 @@ const Main = () => {
   useEffect(() => {
     async function fetchProducts() {
       let placeholder = await getProducts();
+      console.log(placeholder)
       setProducts(placeholder.products);
     }
     fetchProducts();

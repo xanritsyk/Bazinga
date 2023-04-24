@@ -1,6 +1,6 @@
-const client = require("./client");
+const client = require("./client.js");
 const bcrypt = require("bcrypt");
-const { createCart } = require("./cart");
+const { createCart } = require("./carts.js");
 
 async function getAllUsers() {
   const { rows } = await client.query(

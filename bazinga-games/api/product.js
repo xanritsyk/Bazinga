@@ -6,11 +6,11 @@ const {requireAdmin} = require('./utils')
 productsRouter.get('/', async (req, res, next) => {
     try {
       const products = await getAllProducts();
-  
-    
-      res.send({
-        products
-      });
+        console.log(products)
+    res.status(200).json(products)
+      //res.send({
+       // products
+      //});
     } catch ({ name, message }) {
       next({ name, message });
     }

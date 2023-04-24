@@ -256,18 +256,8 @@ const {
     console.log("starting to create cart items...");
   
     const cartItemsToCreate = [
-      {
-        cartId: 1,
-        productId: 1,
-        price: 499,
-        quantity: 1,
-      },
-      {
-          cartId: 1,
-          productId: 3,
-          price: 249,
-          quantity: 1,
-        },
+      
+      
       {
         cartId: 1,
         productId: 2,
@@ -286,38 +276,8 @@ const {
         price: 249,
         quantity: 1,
       },
-      {
-        cartId: 4,
-        productId: 3,
-        price: 249,
-        quantity: 1,
-      },
-  
-      {
-        cartId: 5,
-        productId: 3,
-        price: 249,
-        quantity: 1,
-      },
-      {
-        cartId: 5,
-        productId: 2,
-        price: 499,
-        quantity: 1,
-      },
-  
-      {
-        cartId: 6,
-        productId: 3,
-        price: 249,
-        quantity: 1,
-      },
-      {
-        cartId: 6,
-        productId: 2,
-        price: 499,
-        quantity: 1,
-      },
+      
+      
   
     ];
   

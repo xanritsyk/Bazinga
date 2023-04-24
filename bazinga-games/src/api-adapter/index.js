@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:3000/api/";
+const BASE_URL = "http://localhost:5000/api/";
 
 export async function getProductsById(productId) {
   try {
@@ -14,6 +14,7 @@ export async function getProductsById(productId) {
 export async function getProducts() {
   try {
     const response = await fetch(`${BASE_URL}products`);
+    console.log(response)
     const result = await response.json();
     return result;
   } catch (error) {
