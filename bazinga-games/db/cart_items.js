@@ -1,5 +1,5 @@
-const client = require("./client");
-const { getUserById } = require("./users");
+const client = require("./client.js");
+const { getUserById } = require("./users.js");
 
 async function getCartItemById(id) {
   const {

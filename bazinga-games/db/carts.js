@@ -1,4 +1,4 @@
-const client = require("./client");
+const client = require("./client.js");
 
 async function getAllCarts() {
   const { rows } = await client.query(

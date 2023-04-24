@@ -10,8 +10,8 @@ const {
     addProductToCartItems,
     getCartByUser,
     getCartItemsByCart
-  } = require("./index");
-  const client = require("./client");
+  } = require("./index.js");
+  const client = require("./client.js");
   
   async function createInitialUsers() {
     try {

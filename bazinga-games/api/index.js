@@ -42,10 +42,10 @@ apiRouter.use((req, res, next) => {
     next();
   });
 
-const usersRouter = require('./users');
+const usersRouter = require('./user');
 apiRouter.use('/users', usersRouter);
 
-const productsRouter = require('./products');
+const productsRouter = require('./product');
 apiRouter.use('/products', productsRouter);
 
 const cartRouter = require('./cart')
